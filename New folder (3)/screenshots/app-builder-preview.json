@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BOOM",
+      "hasCanvas": false,
+      "bodyTextLen": 85,
+      "bodyTextHash": "f04509d8888657de4b532c90f7eca1410e73919717217b141734a640f6fc53fe",
+      "bodyTextPrefix": "BOOM DETONATOR SAFE SAFE BOOM Flip the switch. The whole page go",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BOOM",
+      "hasCanvas": false,
+      "bodyTextLen": 85,
+      "bodyTextHash": "f04509d8888657de4b532c90f7eca1410e73919717217b141734a640f6fc53fe",
+      "bodyTextPrefix": "BOOM DETONATOR SAFE SAFE BOOM Flip the switch. The whole page go",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
